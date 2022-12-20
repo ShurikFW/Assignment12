@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Assignment12\Assignment12\bin\Debug\Assignment12.exe.config
+C:\Users\User\source\repos\Assignment12\Assignment12\bin\Debug\Assignment12.exe
+C:\Users\User\source\repos\Assignment12\Assignment12\bin\Debug\Assignment12.pdb
+C:\Users\User\source\repos\Assignment12\Assignment12\obj\Debug\Assignment12.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Assignment12\Assignment12\obj\Debug\Assignment12.Form1.resources
+C:\Users\User\source\repos\Assignment12\Assignment12\obj\Debug\Assignment12.Properties.Resources.resources
+C:\Users\User\source\repos\Assignment12\Assignment12\obj\Debug\Assignment12.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Assignment12\Assignment12\obj\Debug\Assignment12.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Assignment12\Assignment12\obj\Debug\Assignment12.exe
+C:\Users\User\source\repos\Assignment12\Assignment12\obj\Debug\Assignment12.pdb
